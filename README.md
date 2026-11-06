@@ -207,12 +207,10 @@ ProjectSettings/
 
 ---
 
-## 👥 Team
+## 👥 Developer
 
-| Name | Role |
-|---|---|
-| **S. Sathwika** | Developer |
-| **S. Sharanya** | Developer |
+ **S. Sathwika** 
+
 
 **Institution:** SR University, Ananthasagar, Warangal, Telangana
 **Program:** B.Tech, School of Computer Science and Artificial Intelligence (2026–2027)
