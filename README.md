@@ -44,7 +44,11 @@ The project was created as a university game-development project at **SR Univers
 ---
 
 ## 🖼️ Screenshots
-<img width="100" height="100" alt="Screenshot 2026-11-06 134331" src="https://github.com/user-attachments/assets/672d3607-e364-4102-a9cf-06ece51bf123" />
+<img width="150" height="150" alt="Screenshot 2026-11-06 134331" src="https://github.com/user-attachments/assets/672d3607-e364-4102-a9cf-06ece51bf123" />
+<img width="150" height="150" alt="Screenshot 2026-11-06 134356" src="https://github.com/user-attachments/assets/6d908578-90ef-4e54-8ec4-9d0dbdf4b767" />
+<img width="150" height="150" alt="Screenshot 2026-11-06 181736" src="https://github.com/user-attachments/assets/5f86aa1d-0eb4-4f90-bf56-2a97cc5fb604" />
+<img width="150" height="150" alt="Screenshot 2026-11-06 181746" src="https://github.com/user-attachments/assets/6136839b-cc2e-43c2-8ff5-80ab574b18db" />
+<img width="150" height="150" alt="Screenshot 2026-11-06 181819" src="https://github.com/user-attachments/assets/a6f0919e-9334-49fb-ba38-88f9bf65827d" />
 
 
 ---
