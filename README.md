@@ -211,17 +211,11 @@ ProjectSettings/
 
  **S. Sathwika** 
 
-
-**Institution:** SR University, Ananthasagar, Warangal, Telangana
-**Program:** B.Tech, School of Computer Science and Artificial Intelligence (2026–2027)
-**Faculty guide:** *[Faculty Guide Name]*
-
 ---
 
 ## 🙏 Acknowledgements
 
 - [Unity Technologies](https://unity.com/) for the game engine
-- Our faculty guide and **SR University** for their guidance and support
 
 ---
 
