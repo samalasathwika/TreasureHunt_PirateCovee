@@ -44,20 +44,8 @@ The project was created as a university game-development project at **SR Univers
 ---
 
 ## 🖼️ Screenshots
+<img width="100" height="100" alt="Screenshot 2026-11-06 134331" src="https://github.com/user-attachments/assets/672d3607-e364-4102-a9cf-06ece51bf123" />
 
-> Add your own screenshots to a `docs/` folder and update the paths below.
-
-| Main Menu | Level 1: Moonlit Night |
-|:---:|:---:|
-| ![Main menu](docs/menu.png) | ![Night](docs/level1-night.png) |
-
-| Level 2: Sunny Day | Level 3: Golden Sunset |
-|:---:|:---:|
-| ![Day](docs/level2-day.png) | ![Sunset](docs/level3-sunset.png) |
-
-| Level 4: Storm at Skull Rock | Game Over |
-|:---:|:---:|
-| ![Storm](docs/level4-storm.png) | ![Game over](docs/gameover.png) |
 
 ---
 
